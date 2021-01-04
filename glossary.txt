@@ -1,0 +1,35 @@
+HTML syntax:
+h1, h2, h3, h4, h5, h6 : headers / subheaders
+
+p : paragraph
+
+a : link
+
+ul : unordered lsit
+
+li : list items
+
+div: divides content of page into groups
+
+<tag attribute="variable"</tag>
+
+<img attribute="" attribute="">
+
+Css Class (do to multiple objects): 
+.link-blue {
+	color: blue;			
+}
+
+Css ID (do only to one element):
+#link-wagon {
+	color: white;
+	background-color: red;
+}
+
+By priority:
+IDs > Class > tags
+
+Descendent selectors:
+Parent child {
+	color: white;
+}
